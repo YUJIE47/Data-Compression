@@ -16,12 +16,9 @@
   - `A`: Records the size of the tag interval with a value between 0.75 (0x8000) and 1.5 (0x10000).
   - `C`: The lower bound that stores the encoded bits.
 - Refer to the provided pseudo-code of a binary arithmetic encoder for implementation.
-- Run code: check 'Task1_Huffman and QMCoder/README.md'
+- Run code: check `Task1_Huffman and QMCoder/README.md`
 
 ## Task2: JPEG-like Compression
-## Task2: JPEG-like Compression
-
-### JPEG-like Compression
 - Implement still image transform coding similar to a prototype JPEG.
 - Use any programming language of your choice.
 - Test images:
@@ -35,4 +32,4 @@
 - Use the differential coding tables of luminance DC and AC provided in the class notes.
 - Ensure the image is recoverable to `.raw` format for viewing.
 - Calculate PSNR of the original and compressed image for QF values: 90, 80, 50, 20, 10, and 5.
-- Run code: check 'Task2_JPEG-like Compression/README.md'
+- Run code: check `Task2_JPEG-like Compression/README.md`
