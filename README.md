@@ -8,7 +8,7 @@
 - Report the compressed file sizes (excluding the size of transmitted codewords).
 - Compare the results with the first-order entropy.
 - Note: Ignore potential issues at the end of the decoding process assuming the decoder knows the image resolution.
-- Run code: check 'Task1_Huffman and QMCoder/README.md'
+- Run code: check `Task1_Huffman and QMCoder/README.md`
 
 ### QMCoder
 - Implement the QM encoder for binary arithmetic coding.
